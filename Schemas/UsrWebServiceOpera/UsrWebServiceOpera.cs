@@ -31,13 +31,5 @@ namespace Terrasoft.Configuration.UsrWebServiceOpera
 	
 	}
 	
-	/*[ServiceContract]
-	public class MyContract 
-	{
-		[DataMember]
-		public int x;
-		
-		[DataMember]
-		public string y;
-	}*/
+	
 } 
