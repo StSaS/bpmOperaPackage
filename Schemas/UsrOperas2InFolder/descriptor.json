@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1368e84-5fd2-48b3-9a2b-cd425e61fd3e",
+    "Name": "UsrOperas2InFolder",
+    "ModifiedOnUtc": "\/Date(1565183405000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Концертная программа в группе",
+    "DependsOn": []
+  }
+}

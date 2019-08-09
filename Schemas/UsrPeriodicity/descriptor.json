@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "23338249-cf54-45b0-ae7e-fee9ad7279d8",
+    "Name": "UsrPeriodicity",
+    "ModifiedOnUtc": "\/Date(1565179323000)\/",
+    "Parent": {
+      "UId": "2aecdb97-990e-4c17-96f4-240ca6531c84",
+      "Name": "Lookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Периодичность изданий (Опера)",
+    "DependsOn": []
+  }
+}

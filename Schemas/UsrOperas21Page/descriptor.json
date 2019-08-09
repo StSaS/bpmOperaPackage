@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ccd92445-f10f-4c88-8e2d-79b797e2f9b4",
+    "Name": "UsrOperas21Page",
+    "ModifiedOnUtc": "\/Date(1565358085000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Концертная программа\""
+  }
+}

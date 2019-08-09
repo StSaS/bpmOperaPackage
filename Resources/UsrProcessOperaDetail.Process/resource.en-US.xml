@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Ежедневно" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Еженедельно" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Ежемесячно" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Задание-сценарий 1" />
+			<Item Name="BaseElements.ScriptTask2.Caption" Value="Еженедельный  генератор программ" />
+			<Item Name="BaseElements.ScriptTask3.Caption" Value="Ежемесячный  генератор программ" />
+			<Item Name="BaseElements.ScriptTask4.Caption" Value="Отправка сообщения" />
+			<Item Name="Caption" Value="Добавление записей в деталь Выступления" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.ProcessSchemaParameterID.Caption" Value="Идентификатор записи раздела" />
+			<Item Name="Parameters.ProcessSchemaPeriodical.Caption" Value="Код периодичности программы" />
+		</Items>
+	</Group>
+</Resources>

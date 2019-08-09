@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1c5ef662-e70d-424d-83a1-51ee7cc47ea2",
+    "Name": "UsrOperas2Tag",
+    "ModifiedOnUtc": "\/Date(1565183408000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Концертная программа",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "da6def3a-3242-4497-80a5-820bc50f0a9d",
+    "Name": "UsrProcessOperaDetail",
+    "ModifiedOnUtc": "\/Date(1565351969000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Добавление записей в деталь Выступления",
+    "DependsOn": []
+  }
+}

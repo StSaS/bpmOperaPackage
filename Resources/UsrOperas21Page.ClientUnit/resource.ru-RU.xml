@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Концертная программа&quot;" />
+			<Item Name="LocalizableStrings.addRecordsDetail.Value" Value="Создать выступления" />
+			<Item Name="LocalizableStrings.UsrSchema2Detail6521e86eDetailCaptionOnPage.Value" Value="Выступления" />
+		</Items>
+	</Group>
+</Resources>

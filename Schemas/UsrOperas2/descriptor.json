@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0813c005-6671-4fab-b71a-7b6671bf41c0",
+    "Name": "UsrOperas2",
+    "ModifiedOnUtc": "\/Date(1565191030000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Концертная программа",
+    "DependsOn": []
+  }
+}

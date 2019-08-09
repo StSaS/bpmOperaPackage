@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce01eaf8-4526-4326-8b01-c9e17bb54e3f",
+    "Name": "UsrOperas2File",
+    "ModifiedOnUtc": "\/Date(1565183401000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Концертная программа",
+    "DependsOn": []
+  }
+}
